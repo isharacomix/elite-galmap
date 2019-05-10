@@ -24,3 +24,5 @@ Then run
     ./mapping.py draw
 
 The parse step will take several minutes depending on your CPU. It will print out a message every 100000 stars that get scanned. Drawing will be simpler: it will draw every system you have seen with a yellow pixel and every system you discovered first with a green pixel.
+
+![Example](example.png)
